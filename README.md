@@ -6,7 +6,7 @@ The goal of this project is to web scrape the Vinted.fr website to be able to fi
 
 ## Data
 
-For this project, I focused on 1 product in particular: ![White Stan Smith Woman's Shoes, size 38](https://www.vinted.fr/femmes/baskets?size_id[]=58&page=1&search_text=stan%20smith&color_id[]=12&status[]=2&status[]=1&status[]=6&brand_id[]=14)
+For this project, I focused on 1 product in particular: [White Stan Smith Woman's Shoes, size 38](https://www.vinted.fr/femmes/baskets?size_id[]=58&page=1&search_text=stan%20smith&color_id[]=12&status[]=2&status[]=1&status[]=6&brand_id[]=14)
 For this particular product, there are more than 500 results on Vinted.fr.
 * Filtering by date of last visit of the seller on Vinted reduces the probability of cancellation of the sell because the seller did not send the product.
 * Filtering by number of pictures provided, evaluations of the seller, and price according to the condition could reduce the probability of counterfeit product.
